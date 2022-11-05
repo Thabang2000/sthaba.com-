@@ -1,0 +1,31 @@
+body {     background-color: lightblue;  
+}  
+h1 {   
+    color: navy;  
+    margin-left: 20px;  
+}   
+body {
+    <form>
+    <select>
+        <option>HOME</option>
+        <option>PERSONALITY</option>
+        <option>SCHOOL BACKGROND</option>
+        <option>THINGS I LIKE</option>
+        <option>SPORTS</option>
+        
+  </select>
+ </form>
+}
+p {
+    color: white;
+    background-color: gray;
+}
+#div-container{
+    color: blue;
+    background-color: gray;
+}
+.paragraph-class {
+    color:white;
+    font-family: monospace;
+    background-color: purple;
+}
